@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/datacommons",
   "title": "Datacommons",
   "description": "Data Commons MCP — harmonised public statistics for places, from Google Data Commons (REST v2).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/datacommons",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-datacommons",
