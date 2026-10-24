@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-datacommons",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Data Commons MCP — harmonised public statistics for places, from Google Data Commons (REST v2).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ca0f44af17dcda20c9f7a1828be2222adb3cacdb23467722b3831610209be432",
-    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
+    "sourceHash": "v1-07f69b8252e9c82769c36ecdf9721ed037650d8c7da06f3f7a6c4ed36cc2da3f",
+    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
   }
 }
